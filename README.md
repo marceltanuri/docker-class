@@ -108,5 +108,3 @@ Aqui, sem precisar de Spring Boot, vamos rodar um **Java SE básico**.
 ✅ **Preview do futuro**, conectando Docker ao aprendizado futuro de Spring Boot.  
 
 ---
-
-**O que achou? Sugestões para ajustes?** 🚀😃
